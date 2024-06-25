@@ -1,1 +1,0 @@
-# Spam-Insights-Naive-Bayes-and-Genetic-Algorithm-for-Spam-Detection
